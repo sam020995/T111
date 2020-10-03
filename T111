@@ -1,0 +1,17 @@
+[info] Playing test case BRECKET / BRECKET
+[info] Time: Sat Oct 03 2020 05:46:47 GMT+0700 (Western Indonesia Time) Timestamp: 1601678807058
+[info] OS: Windows Version: 10
+[info] Browser: Chrome Version: 85.0
+[info] If the test cannot start, please refresh the active browser tab
+[info] Executing: | click | name=search | |
+[info] Executing: | type | name=search | Cerek20 |
+[info] Executing: | click | //form[@id='basicForm']/div/label/button | |
+[info] Executing: | click | xpath=(//a[contains(text(),'DEPOSIT')])[2] | |
+[info] Executing: | click | name=total | |
+[info] Executing: | type | name=total | 150,000.00 |
+[info] Executing: | click | //form[@id='basicForm']/div/div[2]/div[13]/div/div/a/span | |
+[info] Executing: | type | xpath=(//input[@type='text'])[14] | 309901002333506 |
+[info] Executing: | click | //form[@id='basicForm']/div/div[2]/div[13]/div/div/div/ul/li | |
+[info] Executing: | click | //form[@id='basicForm']/div/div[3]/div/div/button | |
+[info] Time: Sat Oct 03 2020 05:46:51 GMT+0700 (Western Indonesia Time) Timestamp: 1601678811326
+[info] Test case passed
